@@ -7,6 +7,6 @@ setup(
    version='1.0',
    description='Exceptional Model Mining implementation',
    author='MathynS',
-   packages=['emm'],
+   packages=['.'],
    install_requires=requirements
 )
